@@ -1,12 +1,12 @@
-# Challenge 1: Mom Test AI — Truth-Seeking Customer Discovery
+# Challenge 1: Proof-By-User — Truth-Seeking Customer Discovery
 **Competition:** Build with Gemini XPRIZE  
 **Category:** Entrepreneurship & Job Creation  
-**Working name:** Mom Test AI *(final brand TBD)*  
+**Working name:** Proof-By-User *(final brand TBD)*  
 **Sector:** Founder tooling / Customer discovery / User research SaaS
 
-> **Source idea:** [`../selected_idea_mom_test.md`](../selected_idea_mom_test.md)  
-> **Existing system (asset base):** `D:\MAJOR-NODES\WORK-SYSTEMS\MOM-TEST`  
-> **Related product nodes:** `PROJECT-NODES\01-PERSONAL-GROWTH-PROJECTS\Mom-Test-Idea`, `PROJECT-NODES\06-SOLOPRENEUR-SAAS-PROJECTS\Mom-Test-Tool-Idea`
+> **Source idea:** [`../selected_idea_proof_by_user.md`](../selected_idea_proof_by_user.md)  
+> **Existing system (asset base):** `D:\MAJOR-NODES\WORK-SYSTEMS\PROOF-BY-USER`  
+> **Related product nodes:** `PROJECT-NODES\01-PERSONAL-GROWTH-PROJECTS\Proof-By-User-Idea`, `PROJECT-NODES\06-SOLOPRENEUR-SAAS-PROJECTS\Proof-By-User-Tool-Idea`
 
 ---
 
@@ -25,7 +25,7 @@ Today, founders and product teams still run discovery with:
 
 There is **no widely adopted AI-native loop** that (1) plans unbiased questions from a hypothesis, (2) scores those questions against Mom Test rules, (3) reviews transcripts for fact vs opinion vs compliment, and (4) updates an assumption vault with evidence quotes and next actions — with agents making those classification decisions in production.
 
-We already own a deep **methodology system** (book + domain-agnostic engine + guide generator + relationship preset + sample multi-chapter guides) under `WORK-SYSTEMS\MOM-TEST`. That system proves the method is codifiable. The competition challenge is to **productize the business-customer-discovery path** into a real Gemini-operated SaaS that ships, charges, and logs AI decisions before the XPRIZE deadline (**Aug 17, 2026**).
+We already own a deep **methodology system** (book + domain-agnostic engine + guide generator + relationship preset + sample multi-chapter guides) under `WORK-SYSTEMS\PROOF-BY-USER`. That system proves the method is codifiable. The competition challenge is to **productize the business-customer-discovery path** into a real Gemini-operated SaaS that ships, charges, and logs AI decisions before the XPRIZE deadline (**Aug 17, 2026**).
 
 The initial proof of concept should focus on the **founder / early-team customer-interview loop** (hypothesis → interview plan → transcript in → Gemini report out → assumption vault), with the potential to expand into multi-domain truth extraction (co-founder vetting, hiring, enterprise discovery) using the same engine skeleton already proven in MOM-TEST.
 
@@ -63,7 +63,7 @@ The initial proof of concept should focus on the **founder / early-team customer
 
 **Data / assets expected to be available:**
 
-1. **Methodology corpus** — full book chapters + engine rules already in `MOM-TEST/book` and `MOM-TEST/system/engine`.  
+1. **Methodology corpus** — full book chapters + engine rules already in `PROOF-BY-USER/book` and `PROOF-BY-USER/system/engine`.  
 2. **Generation procedure & templates** — intake form, guide template, note-taking legend, commitment ladders.  
 3. **Worked sample guides** — e.g. relationship-vetting SAMPLE (structure to mirror for business preset).  
 4. **User-provided** problem statements, assumptions, and interview transcripts (synthetic demos allowed pre-customer; real transcripts after first users).  
@@ -94,7 +94,7 @@ The initial proof of concept should focus on the **founder / early-team customer
 
 > The `MOM-TEST` system is the **knowledge and generation backbone**. The XPRIZE product is the **productized, Gemini-operated business layer** on top. Do not rebuild methodology from scratch; productize and instrument it.
 
-### Already built (`D:\MAJOR-NODES\WORK-SYSTEMS\MOM-TEST`)
+### Already built (`D:\MAJOR-NODES\WORK-SYSTEMS\PROOF-BY-USER`)
 
 | Asset | What it is | Product value |
 |---|---|---|
@@ -132,8 +132,8 @@ Start where the existing system is **already sharp** (rules, bad-data taxonomy, 
 
 | Source | What It Provides | Access |
 |---|---|---|
-| **`MOM-TEST/book/`** | Canonical principles, bad-data types, commitment rules | Local (owned) |
-| **`MOM-TEST/system/engine/`** | Operationalized rules for agents | Local (owned) |
+| **`PROOF-BY-USER/book/`** | Canonical principles, bad-data types, commitment rules | Local (owned) |
+| **`PROOF-BY-USER/system/engine/`** | Operationalized rules for agents | Local (owned) |
 | **Rob Fitzpatrick — *The Mom Test*** | Source book; keep product educational, not a full reprint | Fair use / paraphrase; own systemization |
 | **Customer Development / Lean literature** | Complementary language for assumption testing | Public |
 
@@ -200,7 +200,7 @@ This demonstrates the full pipeline — plan, score, analyze, advance — withou
 | **Assumption & Insight Vault** | Per-project status board with evidence quotes and next actions | **MVP — must ship** |
 | **Commitment Ladder Coach** | End-of-interview advancement asks (time / reputation / money) | MVP-light |
 | **Live Interview HUD** | On-screen prompts during a call ("don't pitch"; next dig) | Post-deadline unless requested |
-| **Multi-domain presets** | Co-founder, hiring, vendor — reuse MOM-TEST engine | Scale phase |
+| **Multi-domain presets** | Co-founder, hiring, vendor — reuse PROOF-BY-USER engine | Scale phase |
 | **Team / accelerator seats** | Shared vaults, observer notes, cohort dashboards | Scale phase |
 
 ### Business Challenges (Validated Against Founder Reality)
@@ -267,12 +267,12 @@ This demonstrates the full pipeline — plan, score, analyze, advance — withou
 | **Impact** | Differentiating long-term; **not** required to win the first revenue week. |
 | **Maps to existing asset** | Guided interview mode ideas from product nodes; note-taking signals |
 
-### SWOT Analysis — Pitching Mom Test AI (Competition + Customers)
+### SWOT Analysis — Pitching Proof-By-User (Competition + Customers)
 
 #### Strengths
 | # | Strength |
 |---|---|
-| 1 | **Deep proprietary systemization** already exists in MOM-TEST (engine + presets + sample guides) — not starting from a blank prompt. |
+| 1 | **Deep proprietary systemization** already exists in PROOF-BY-USER (engine + presets + sample guides) — not starting from a blank prompt. |
 | 2 | **Clear ICP and pricing** with day-one charge culture aligned to XPRIZE business-viability judging. |
 | 3 | **Natural Gemini workload**: classification, rewrite, structured extraction, multi-step agents — easy to show "AI executes decisions." |
 | 4 | **Memorable category story**: fewer dead startups → jobs and economic opportunity (Entrepreneurship & Job Creation). |
@@ -288,7 +288,7 @@ This demonstrates the full pipeline — plan, score, analyze, advance — withou
 #### Opportunities
 | # | Opportunity |
 |---|---|
-| 1 | **Wedge then expand**: founder discovery → PM research → accelerator seats → multi-domain truth engine (co-founder, hiring) using same MOM-TEST architecture. |
+| 1 | **Wedge then expand**: founder discovery → PM research → accelerator seats → multi-domain truth engine (co-founder, hiring) using same PROOF-BY-USER architecture. |
 | 2 | **Content-led acquisition**: Point Blanc / Mom Test education content nodes already exist as distribution scaffolding. |
 | 3 | **Category prize path**: highest-grossing team *in category* also wins $50k — revenue discipline compounds. |
 | 4 | **Replicability**: every founder and many PMs need this loop; viral demo = "paste your last interview, see the fluff." |
@@ -303,7 +303,7 @@ This demonstrates the full pipeline — plan, score, analyze, advance — withou
 
 ### Recommended Starting Point
 
-> **Start with Solution 1 + Solution 2 as a single MVP loop.** Do not build live call HUD first. Encode the MOM-TEST engine into Gemini agents, wrap a thin product UI, charge, instrument, film production usage.
+> **Start with Solution 1 + Solution 2 as a single MVP loop.** Do not build live call HUD first. Encode the PROOF-BY-USER engine into Gemini agents, wrap a thin product UI, charge, instrument, film production usage.
 
 | Phase | What | Timeline (indicative) |
 |---|---|---|
@@ -342,7 +342,7 @@ This demonstrates the full pipeline — plan, score, analyze, advance — withou
 
 **The Pitch**
 
-*"Everyone said your idea was amazing — so why did nobody buy? Mom Test AI runs customer interviews the Mom Test way: it blocks biased questions, labels compliments as non-evidence, and shows which assumptions actually have facts and commitments behind them. Paste your last interview; in under a minute you'll see what you learned versus what just felt good. We're already systemized this method end-to-end in our engine — now Gemini runs the decisions in production for founders who want truth before they build."*
+*"Everyone said your idea was amazing — so why did nobody buy? Proof-By-User runs customer interviews the Mom Test way: it blocks biased questions, labels compliments as non-evidence, and shows which assumptions actually have facts and commitments behind them. Paste your last interview; in under a minute you'll see what you learned versus what just felt good. We're already systemized this method end-to-end in our engine — now Gemini runs the decisions in production for founders who want truth before they build."*
 
 ---
 
@@ -392,7 +392,7 @@ This demonstrates the full pipeline — plan, score, analyze, advance — withou
 
 1. **Register / confirm** Devpost + Google Cloud credit eligibility.  
 2. **Lock brand + one-liner** for scroll-stopping first frame.  
-3. **Mint `business-customer-discovery` preset** in MOM-TEST (or product repo mirror) from engine template — first-class founder domain.  
+3. **Mint `business-customer-discovery` preset** in PROOF-BY-USER (or product repo mirror) from engine template — first-class founder domain.  
 4. **Build MVP loop** in production: hypothesis → plan → transcript → report → vault.  
 5. **Instrument** Gemini decisions + Cloud logs + Stripe.  
 6. **Sell** first 5–10 paying users offline/network first.  
@@ -404,14 +404,14 @@ This demonstrates the full pipeline — plan, score, analyze, advance — withou
 
 | Doc | Role |
 |---|---|
-| [`../selected_idea_mom_test.md`](../selected_idea_mom_test.md) | Selection decision + category + pricing |
+| [`../selected_idea_proof_by_user.md`](../selected_idea_proof_by_user.md) | Selection decision + category + pricing |
 | [`../details.md`](../details.md) | Competition overview |
 | [`../rules_summary.md`](../rules_summary.md) / [`../faq.md`](../faq.md) | Constraints |
 | [`../submission_checklist.md`](../submission_checklist.md) | Devpost package |
 | [`../technical_capabilities.md`](../technical_capabilities.md) | Gemini stack |
 | [`../marketing_strategy.md`](../marketing_strategy.md) | Charge day one |
-| `D:\MAJOR-NODES\WORK-SYSTEMS\MOM-TEST\` | Existing system to productize |
-| `PROJECT-NODES\...\Mom-Test-Idea` + `Mom-Test-Tool-Idea` | Earlier product feature maps |
+| `D:\MAJOR-NODES\WORK-SYSTEMS\PROOF-BY-USER\` | Existing system to productize |
+| `PROJECT-NODES\...\Proof-By-User-Idea` + `Proof-By-User-Tool-Idea` | Earlier product feature maps |
 
 ---
 
@@ -419,7 +419,7 @@ This demonstrates the full pipeline — plan, score, analyze, advance — withou
 
 | Date | Decision | Owner |
 |---|---|---|
-| 2026-07-30 | Select Mom Test AI for XPRIZE; category Entrepreneurship & Job Creation | Blue Akash + agent review |
+| 2026-07-30 | Select Proof-By-User for XPRIZE; category Entrepreneurship & Job Creation | Blue Akash + agent review |
 | 2026-08-01 | Author Challenge_1 doc mirroring Supply Chain AI structure; ground in MOM-TEST assets + product gaps | Challenge doc session |
 
 ---
