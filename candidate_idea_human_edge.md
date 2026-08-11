@@ -1,7 +1,7 @@
 # Candidate Idea: Human Edge
 
 **Status:** DOCUMENTED candidate — **long-horizon flagship** (not primary XPRIZE entry as of 2026-07-30)  
-**Primary competition entry:** See `selected_idea_mom_test.md` (Mom Test AI)  
+**Primary competition entry:** See `selected_idea_proof_by_user.md` (ProofByUser; legacy name Mom Test AI)  
 **Decision date:** 2026-07-30  
 **Source review:** `D:\MAJOR-NODES\HUMAN-EDGE\Project-Human-Edge` (vision, product definition, business model, strategic analysis, project status) vs competition criteria  
 
@@ -101,9 +101,9 @@ Scored for **Build with Gemini XPRIZE** judging (equal weight) + shippability.
 
 ---
 
-## Comparison to Mom Test AI (primary entry)
+## Comparison to ProofByUser (primary entry)
 
-| | **Mom Test AI** (`selected_idea_mom_test.md`) | **Human Edge** (this doc) |
+| | **ProofByUser** (`selected_idea_proof_by_user.md`) | **Human Edge** (this doc) |
 |--|-----------------------------------------------|---------------------------|
 | **Role** | **Primary XPRIZE entry** | Long-game flagship / optional secondary path |
 | **Category** | Entrepreneurship & Job Creation | Education & Human Potential |
@@ -112,7 +112,7 @@ Scored for **Build with Gemini XPRIZE** judging (equal weight) + shippability.
 | **18-day revenue odds** | Higher | Lower without a new paid wedge |
 | **Ambition** | Narrow wedge | Brand + media + product compounder |
 
-**Portfolio stance:** Build **Mom Test AI** for the prize race; keep **Human Edge** as the multi-year intellectual brand — they can reinforce later (founders who validate → think better with Human Edge).
+**Portfolio stance:** Build **ProofByUser** for the prize race; keep **Human Edge** as the multi-year intellectual brand — they can reinforce later (founders who validate → think better with Human Edge).
 
 ---
 
@@ -235,7 +235,7 @@ Required package (see `submission_checklist.md`):
 
 | Date | Decision | Owner |
 |------|----------|--------|
-| 2026-07-30 | Document **Human Edge** as competition **candidate** + long-horizon flagship; **primary XPRIZE entry remains Mom Test AI** | Blue Akash + agent review of Project-Human-Edge |
+| 2026-07-30 | Document **Human Edge** as competition **candidate** + long-horizon flagship; **primary XPRIZE entry remains ProofByUser** (was Mom Test AI naming) | Blue Akash + agent review of Project-Human-Edge |
 | 2026-07-30 | Best category if entered: **Education & Human Potential** | Same |
 | 2026-07-30 | XPRIZE-viable only if reframed as **AI-native media ops + paid wedge**, with post–May 19 business scope | Same |
 
@@ -244,7 +244,7 @@ Required package (see `submission_checklist.md`):
 ## Related docs
 
 ### This folder (XPRIZE)
-- `selected_idea_mom_test.md` — **primary selected entry**  
+- `selected_idea_proof_by_user.md` — **primary selected entry** (legacy: `selected_idea_mom_test.md` redirect)  
 - `details.md` — competition overview  
 - `rules_summary.md` / `faq.md` — constraints  
 - `submission_checklist.md` — Devpost fields  

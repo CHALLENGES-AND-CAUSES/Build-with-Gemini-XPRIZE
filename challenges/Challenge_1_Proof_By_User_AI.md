@@ -5,8 +5,11 @@
 **Sector:** Founder tooling / Customer discovery / User research SaaS
 
 > **Source idea:** [`../selected_idea_proof_by_user.md`](../selected_idea_proof_by_user.md)  
-> **Existing system (asset base):** `D:\MAJOR-NODES\WORK-SYSTEMS\PROOF-BY-USER`  
-> **Related product nodes:** `PROJECT-NODES\01-PERSONAL-GROWTH-PROJECTS\Proof-By-User-Idea`, `PROJECT-NODES\06-SOLOPRENEUR-SAAS-PROJECTS\Proof-By-User-Tool-Idea`
+> **Workspace home:** `D:\Y-PROJECTS\PROOF-BY-USER`  
+> **Product brain (D):** `D:\Y-PROJECTS\PROOF-BY-USER\Project-Brain-Proof-By-User`  
+> **Method OS (C):** `D:\Y-PROJECTS\PROOF-BY-USER\x-PROOF-BY-USER` (Core: `Proof-By-User-Core`)  
+> **Public brand:** **ProofByUser** (not “Mom Test AI”)  
+> **Related product nodes:** `PROJECT-NODES\…\Proof-By-User-Idea`, `…\Proof-By-User-Tool-Idea`
 
 ---
 
